@@ -127,19 +127,19 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "100"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "8"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "1"
       }
     }
   },
@@ -160,24 +160,6 @@
       "companyName": "Company Name"
     },
     "toast": "We will contact you soon!"
-  },
-  "featuredVideos": {
-    "title": "DFUA'16 featured videos",
-    "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-    }
-  },
-  "blog": {
-    "published": "Published",
-    "suggested": "Up next"
-  },
-  "latestPostsBlock": {
-    "title": "The latest news",
-    "callToAction": {
-      "label": "View all stories",
-      "link": "/blog/"
-    }
   },
   "speakers": {
     "skills": "Skills",
