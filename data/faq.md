@@ -6,7 +6,7 @@ GDG DevFest Vancouver will take place on the 20-21st of October in [Hootsuite](h
 
 ### Stay Informed
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest2018vancouver.firebaseapp.com/), RSVP on [Meetup](https://www.meetup.com/GDGCloudVancouver/) and follow us on [Facebook](https://www.facebook.com/gdgvancouver/) and [Twitter](https://twitter.com/gdgvancouver). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfestvancouver.firebaseapp.com/), RSVP on [Meetup](https://www.meetup.com/GDGCloudVancouver/) and follow us on [Facebook](https://www.facebook.com/gdgvancouver/) and [Twitter](https://twitter.com/gdgvancouver). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
 
 ### Content Formats
 
