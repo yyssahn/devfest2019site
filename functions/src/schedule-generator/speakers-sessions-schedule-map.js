@@ -3,7 +3,6 @@ function sessionsSpeakersScheduleMap(sessionsRaw, speakersRaw, scheduleRaw) {
     let sessions = {};
     let speakers = {};
     let scheduleTags = [];
-
     for (const dayKey of Object.keys(scheduleRaw)) {
         const day = scheduleRaw[dayKey];
         const tracksNumber = day.tracks.length;

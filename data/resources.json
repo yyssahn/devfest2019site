@@ -50,11 +50,6 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Call for Papers",
-          "url": "https://goo.gl/forms/lyxSPt9UzK7DOXVh2",
-          "newTab": true
-        },
-        {
           "name": "FAQs",
           "url": "/faq/",
           "newTab": false
@@ -68,7 +63,7 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG Cloud Vancouver DevFest brings together the world class experts in Machine Learning, Web, and Cloud technologies to Vancouver for 2 days of sessions, workshops and showcases.",
+        "description": "GDG Cloud Vancouver DevFest brings together the world class experts in Machine Learning, Web, and Cloud technologies to Vancouver for a day of sessions and fun.",
         "label": "Explore featured session",
         "link": "/schedule"
       }
@@ -84,11 +79,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "6?"
+        "number": "6"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "2?"
+        "number": "1"
       }
     }
   },

@@ -1,16 +1,17 @@
+// note to future self, generated stuff doesn't work well
 {
   "blog" : {
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
-  ],
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2F2171014.jpg?alt=media&token=830bd0ac-bcae-41f2-a56c-5d4f5edcc897",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2F13171014.jpg?alt=media&token=477a24cc-f981-4730-8508-f08a6756a961",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2Fgdgcvanfevfest_14.jpg?alt=media&token=73f03c1a-e4f2-47bc-b9cf-64c47d23bb03",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2Fgdgcvanfevfest_10.jpg?alt=media&token=d505d13a-8f3e-48e6-9415-5078124bd066",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2Fgdgcvanfevfest_18.jpg?alt=media&token=23b34774-c261-482f-b58a-a1f2907ceda4",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2F9171014.jpg?alt=media&token=1e8b30ea-d94d-418b-9bc5-c1d9a4ee14d3",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2F32171014.jpg?alt=media&token=850ffe35-1488-401f-bee3-43ceedfef52b",
+    "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/gallery%2FPHOTO_20171014_130220.jpg?alt=media&token=4410a774-a684-46f1-931b-f19dea478ed8"
+    ],
   "notifications" : {
     "config" : {
       "icon" : "",
@@ -43,10 +44,32 @@
   "schedule" : {
     "2019-09-07" : {
       "dateReadable" : "September 9",
-      "timeslots" : [  ]
+      "timeslots" : [ {
+        "endTime" : "10:00",
+        "sessions" : [{
+          "items" : [ 101 ]
+        }],
+        "startTime" : "09:00"
+      } ]
     }
   },
   "sessions" :  {
+    "101" : {
+      "complexity" : "Intermediate",
+      "description" : "Come to this talk if you want to learn how to build low-ops, high-performance cloud applications by combining serverless with containers. In April 2019, Google released Cloud Run, a managed compute platform that automatically scales your stateless containers. At this talk you will get an inside look at Cloud Run, so you can make an informed decision if serverless containers are right for you.",
+      "language" : "English",
+      "speakers" : [ "vikram_tiwari" ],
+      "tags" : [ "serverless", "containers", "docker", "gcp", "cloud run" ],
+      "title" : "Serverless containers - a match made in heaven"
+    },
+    "102" : {
+      "complexity" : "Beginner",
+      "description" : "As developers, we want to create apps that engage users across multiple devices. But building native apps is costly and cumbersome. Progressive Web Apps (PWAs) are experiences that combine the best of the web and the best of mobile apps using new web standards, including service workers, push notifications, and homescreen access. \n\n In this session, you’ll learn the the fundamentals needed for building Progressive Web Apps, including the app shell model, how to use service workers to cache the App Shell and your key application data and more!",
+      "language" : "English",
+      "speakers" : [ "kyle_paul" ],
+      "tags" : [ "pwa", "javascript", "mobile web", "service worker", "ui/ux" ],
+      "title" : "What are Progressive Web Apps and How do they work?"
+    },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
       "icon" : "registration",
@@ -92,7 +115,23 @@
     
   },
   "speakers" : {
-    
+    "vikram_tiwari" : {
+      "bio" : "Building scalable web and data platforms for high availability, resilience, and security. Co-founder, Tech @omnilabsinc #GDE @GoogleCloud and #MachineLearning",
+      "company" : "Omni Labs",
+      "companyLogoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Flogos%2Fomni_logo.png?alt=media&token=49cc0667-4c0b-465b-9dc1-bb02c5816470",
+      "featured" : true,
+      "name" : "Vikram Tiwari",
+      "photo" : "/images/people/vikram.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Fpeople%2Fvikram.jpg?alt=media&token=9745999e-a222-48a3-9353-9235a60b2832",
+      "shortBio" : "Building scalable web and data platforms for high availability, resilience, and security...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Vikram_Tiwari",
+        "name" : "Twitter"
+      } ],
+      "title" : "Co-Founder of Omni Labs",
+      "order" : 0
+    }
   },
   "team" : [ {
     "members" : [ {
@@ -117,6 +156,7 @@
         "name" : "Blog"
       }
     ],
+    "order" : 0,
       "title" : "Event Host, Event Planning, Logistics, Legwork, Money, Stuff"
     }, {
       "name" : "Davey Edwards",
@@ -135,11 +175,13 @@
         "link" : "https://github.com/DaveyEdwards",
         "name" : "Github"
       } ],
+      "order" : 1,
+
       "title" : "Speakers, Marketing, Swags, and Community Night"
     }, {
       "name" : "Samuel Baruffi",
       "photo" : "/images/people/sam.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest2018vancouver.appspot.com/o/images%2Fpeople%2Fdavey.jpg?alt=media&token=01eeaae3-2872-495c-8ed2-176e10ec9189",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgvancouver-e7a28.appspot.com/o/people%42Fsam.jpg?alt=media&token=24a827e5-3751-4506-baf5-fff5b3a4951e",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/samuelbaruffi",
@@ -153,6 +195,7 @@
         "link" : "https://github.com/samuelbaruffi",
         "name" : "Github"
       } ],
+      "order" : 2,
       "title" : "Speakers, Marketing, Sponsorship, and "
     },{
       "name" : "Piyali Dey",
@@ -167,6 +210,7 @@
         "link" : "https://twitter.com/gradgospel",
         "name" : "Twitter"
       } ],
+      "order" : 2,
       "title" : "WTM, Social and media"
     } ],
     "title" : "Core Team"
